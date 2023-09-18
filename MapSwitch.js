@@ -3,7 +3,7 @@
 // @description Replaces the directions button with a link to Apple Maps instead of Google Maps on the Google search results page. Also redirects to Apple Maps when the current page's url is Google Maps.
 // @version 2.3.1
 // @icon https://repository-images.githubusercontent.com/690362254/75e9cb48-5f4d-4636-ac4d-8ac3183e61b2
-// @updateURL https://raw.githubusercontent.com/Oshanotter/MapSwitch/main/MapSwitch.js
+// @updateURL https://raw.githubusercontent.com/Oshanotter/MapSwitch/main/MapSwitch.user.js
 // @namespace Oshanotter
 // @author Max Forst
 // @include https://www.google.com/search?q=*
